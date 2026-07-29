@@ -1,0 +1,14 @@
+[book]
+title = "47 Prompts Avançados de Claude Code"
+authors = ["paulohsm"]
+language = "pt-BR"
+src = "."
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/paulohsm/47prompts-cloude"
+
+[output.html.print]
+enable = true
