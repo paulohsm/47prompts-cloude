@@ -9,5 +9,6 @@ build-dir = "book"
 
 [output.html]
 git-repository-url = "https://github.com/paulohsm"
-print = true
-fold = { enable = true, level = 1 }
+
+[output.html.print]
+enable = true
