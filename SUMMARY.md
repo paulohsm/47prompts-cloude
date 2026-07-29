@@ -1,10 +1,10 @@
 # Summary
 
-[Início](00-LEIA-PRIMEIRO.md)
+[LEIA PRIMEIRO — Como tirar o máximo destes 47 prompts](00-LEIA-PRIMEIRO.md)
 
 ---
 
-- [Setup E Fundamentos]()
+- [Setup e Fundamentos]()
   - [Criar Claude Md Perfeito](01-setup-e-fundamentos/01-criar-claude-md-perfeito.md)
   - [Estrutura Claude E Settings](01-setup-e-fundamentos/02-estrutura-claude-e-settings.md)
   - [Scope Limites E Guardrails](01-setup-e-fundamentos/03-scope-limites-e-guardrails.md)
