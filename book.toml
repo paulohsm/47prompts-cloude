@@ -1,0 +1,13 @@
+[book]
+title = "Guia de Práticas e Engenharia"
+authors = ["Paulo HSM"]
+language = "pt-BR"
+src = "."
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/paulohsm"
+print = true
+fold = { enable = true, level = 1 }
