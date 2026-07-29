@@ -1,6 +1,8 @@
 # Summary
 
-[Introdução](00-LEIA-PRIMEIRO.md)
+[Início](00-LEIA-PRIMEIRO.md)
+
+---
 
 - [Setup E Fundamentos]()
   - [Criar Claude Md Perfeito](01-setup-e-fundamentos/01-criar-claude-md-perfeito.md)
